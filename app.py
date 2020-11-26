@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Text/Title
-st.title("Streamlit Tutorials")
+st.title("Streamlit Tutorials by Nishchit Chakilela")
 
 # Header/Subheader
 st.header("This is a header")
